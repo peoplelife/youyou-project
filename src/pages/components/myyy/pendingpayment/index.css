@@ -1,0 +1,167 @@
+.ordersDetails-box {
+  width: 1200px;
+  margin: 0 auto;
+}
+.ordersDetails-box .ordersDetails-container {
+  margin-top: 65px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-header {
+  font-size: 14px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-header .breadcrumb {
+  margin-bottom: 20px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container {
+  margin-top: 20px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-contnet-header .ordersDetails-content-header-id {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-contnet-header .ordersDetails-content-header-status {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-contnet-header .ordersDetails-content-header-status .payId {
+  background: #ff146a;
+  border: 0;
+  color: #fff;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-contnet-header .ordersDetails-content-header-status .cancelId {
+  background: #fff;
+  border-color: #ccc;
+  color: #333;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-contnet-header .ordersDetails-content-header-status .ordersDetails-content-header-status-left .orders-status {
+  font-size: 32px;
+  line-height: 42px;
+  margin-right: 20px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-contnet-header .ordersDetails-content-header-status .ordersDetails-content-header-status-left .orders-status-info {
+  font-size: 14px;
+  color: #000;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-contnet-header .ordersDetails-content-header-status .ordersDetails-content-header-status-right {
+  font-size: 14px;
+  color: #000;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-contnet-header .ordersDetails-content-header-status .ordersDetails-content-header-status-right em {
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body {
+  margin-top: 20px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid {
+  color: #333;
+  margin-top: 20px;
+  border: 1px solid #ebebeb;
+  padding: 20px 0;
+  display: flex;
+  flex-direction: row;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-delivery {
+  padding: 0 30px;
+  border-right: 1px solid #ebebeb;
+  width: 20%;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-delivery .grid-delivery-title {
+  font-size: 16px;
+  line-height: 22px;
+  color: #000;
+  margin-bottom: 20px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-delivery .grid-row {
+  display: flex;
+  flex-direction: row;
+  line-height: 30px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-delivery .grid-row .grid-filed-title {
+  width: 75px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-delivery .on-site {
+  display: flex;
+  flex-direction: row;
+  line-height: 30px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-delivery .on-site .grid-filed-title {
+  width: 75px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-delivery .on-site .rid-filed-address {
+  width: 155px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-order {
+  padding: 0 30px;
+  border-right: 1px solid #ebebeb;
+  line-height: 30px;
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-order .grid-order-title {
+  font-size: 16px;
+  line-height: 22px;
+  color: #000;
+  margin-bottom: 20px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-invoice {
+  padding: 0 30px;
+  border-right: 1px solid #ebebeb;
+  line-height: 30px;
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-invoice .grid-invoice-type {
+  display: flex;
+  flex-direction: row;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-invoice .grid-invoice-type .invoice-type-title {
+  width: 133px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-invoice .grid-invoice-title {
+  font-size: 16px;
+  line-height: 22px;
+  color: #000;
+  margin-bottom: 20px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-price {
+  padding: 0 30px;
+  line-height: 30px;
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .ordersDetails-content-body .ordersDetails-content-body-grid .grid-price .grid-price-title {
+  font-size: 16px;
+  line-height: 22px;
+  color: #000;
+  margin-bottom: 20px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .order-info-buyers {
+  margin-top: 20px;
+  width: 1200px;
+  border: 1px solid #ebebeb;
+  padding: 20px 0 10px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .order-info-buyers .buyer-title {
+  color: #000;
+  line-height: 22px;
+  font-size: 16px;
+  margin-left: 30px;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .order-info-buyers .buyer-list-row {
+  margin-left: 32px;
+  display: flex;
+  flex-direction: row;
+}
+.ordersDetails-box .ordersDetails-container .ordersDetails-content-container .ordersDetails-content-box .order-info-buyers .buyer-list-row .item-row {
+  padding: 20px 0 10px;
+  color: #333;
+  font-size: 12px;
+  line-height: 24px;
+  margin-right: 110px;
+}

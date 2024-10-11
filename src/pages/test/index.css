@@ -1,0 +1,62 @@
+/* .iLoginComp{
+    flex:1;
+}
+.iLoginComp-wrapper{
+    margin-top: 100px;
+}
+.iLoginComp-phone-num-wrapper{
+    display: flex;
+    padding: 5px 0;
+    justify-content: space-between ;
+    border-bottom: 1px solid #e5e5e5;
+    align-items: center;
+    height: 42px;
+}
+.iLoginComp-phone-num-input{
+    color:#ccc ;
+    height: 100%;
+    border: 0;  
+    outline: none;
+    background-color: inherit;
+    box-sizing: border-box;
+    font-size: 16px;
+    padding: 0 5px ;
+}
+.iLoginComp-send-verify-code-text{
+    color: #ccc;
+    font-size: 16px;
+    padding: 0 5px;
+    cursor: pointer
+}
+.iLoginComp-code-num-wrapper{
+    margin-top: 16px;
+    display: flex;
+    padding: 5px 0;
+    justify-content: space-between ;
+    border-bottom: 1px solid #e5e5e5;
+    align-items: center;
+    height: 42px;
+}
+.iLoginComp-login-btn-wrapper {
+    height: 52px;
+    border-radius: 75px;
+    margin-top: 32px;
+    background: #df2d2d;
+    color: #fff;
+    cursor: pointer;
+    width: 100%;
+    display: block;
+    font-size: 16px;
+} */
+/* .kl1{
+    display: flex;
+}
+.kl2{
+    color: #ccc;
+    font-size: 16px;
+    padding: 0 5px;
+    cursor: pointer
+}
+.ant-form-item{
+    flex:1
+} */

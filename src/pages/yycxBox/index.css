@@ -1,0 +1,58 @@
+.sidebar {
+    background: #fff;
+    border: 1px solid #EBEBEB;
+    width: 80px;
+    position: fixed;
+    right: 10px;
+    top: 65.5%;
+    margin-top: -105px;
+    z-index: 9999;
+}
+.sidebar .item {
+    height: 60px;
+    border-bottom: 1px solid #EBEBEB;
+    text-align: center;
+    padding-top: 10px;
+    color: #111;
+    font-size: 12px;
+    position: relative;
+    cursor: pointer;
+    box-sizing: content-box;
+}
+.sidebar .item a {
+    display: block;
+    text-decoration: none;
+    color: #111;
+}
+.sidebar .item .icon {
+    background-image: url(https://img.alicdn.com/tfs/TB1u1U9xmzqK1RjSZFHXXb3CpXa-64-180.png);
+}
+.sidebar .item .damai {
+    background-position: 0 4px;
+}
+.sidebar .item .icon {
+    background: url('../../image/yy.png') no-repeat;
+    margin: 0 auto;
+    width: 32px;
+    height: 29px;
+    background-size: 100%;
+}
+.sidebar .item p {
+    margin: 0;
+    margin-top: 5px;
+    font-size: 12px;
+}
+.sidebar .item .icon {
+    background-image: url('../../image/yy.png');
+}
+.sidebar .item .gotop {
+    background-position: 4px -65px;
+}
+.sidebar .item a:hover{
+    color: #ff1268;;
+}
+.J_GoTop p:hover{
+    color: #ff1268;
+}
+/* background: url(//img.alicdn.com/tfs/TB1u1U9xmzqK1RjSZFHXXb3CpXa-64-180.png) no-repeat; */
+/* background-image: url(https://img.alicdn.com/tfs/TB1u1U9xmzqK1RjSZFHXXb3CpXa-64-180.png); */

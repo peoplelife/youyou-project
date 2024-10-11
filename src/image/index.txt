@@ -1,0 +1,88 @@
+{/* <div className="content-wrap-list">
+    <div className="head">
+        <span className="head-title">演唱会</span>
+        <Link>
+            <span className='head-more'>
+                查看全部
+            </span>
+        </Link>
+    </div>
+    <div className="box">
+        <Link className='box-left' to="/details">
+            <img className='box-left_bg' src='https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01NaWSAo2GdSZj8xsQX_!!0-item_pic.jpg'></img>
+            <div className='box-left_info'>
+                <div className='title'>Walk Off The Earth 逃离地球2024巡演上海站</div>
+                <div className='details'>¥380<span>起</span></div>
+            </div>
+        </Link>
+        <div className='box-right'>
+            遍历子元素
+            <Link className='box-right_item'>
+                <div className='itemimg'>
+                    <img src='https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01jD3Kjh2GdSZafdK5L_!!0-item_pic.jpg'></img>
+                </div>
+                <div className='iteminfo'>
+                    <div className='title'>《请回答1988》韩剧主题曲演唱会</div>
+                    <div className='venue'>保利上海城市剧院</div>
+                    <div className='showtime'>2024.05.17 周五 19:30</div>
+                    <div className='price'>￥72<span>起</span></div>
+                </div>
+            </Link>
+            <Link className='box-right_item'>
+                <div className='itemimg'>
+                    <img src='https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01jD3Kjh2GdSZafdK5L_!!0-item_pic.jpg'></img>
+                </div>
+                <div className='iteminfo'>
+                    <div className='title'>《请回答1988》韩剧主题曲演唱会</div>
+                    <div className='venue'>保利上海城市剧院</div>
+                    <div className='showtime'>2024.05.17 周五 19:30</div>
+                    <div className='price'>￥72<span>起</span></div>
+                </div>
+            </Link>
+            <Link className='box-right_item'>
+                <div className='itemimg'>
+                    <img src='https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01jD3Kjh2GdSZafdK5L_!!0-item_pic.jpg'></img>
+                </div>
+                <div className='iteminfo'>
+                    <div className='title'>《请回答1988》韩剧主题曲演唱会</div>
+                    <div className='venue'>保利上海城市剧院</div>
+                    <div className='showtime'>2024.05.17 周五 19:30</div>
+                    <div className='price'>￥72<span>起</span></div>
+                </div>
+            </Link>
+            <Link className='box-right_item'>
+                <div className='itemimg'>
+                    <img src='https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01jD3Kjh2GdSZafdK5L_!!0-item_pic.jpg'></img>
+                </div>
+                <div className='iteminfo'>
+                    <div className='title'>《请回答1988》韩剧主题曲演唱会</div>
+                    <div className='venue'>保利上海城市剧院</div>
+                    <div className='showtime'>2024.05.17 周五 19:30</div>
+                    <div className='price'>￥72<span>起</span></div>
+                </div>
+            </Link>
+            <Link className='box-right_item'>
+                <div className='itemimg'>
+                    <img src='https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01jD3Kjh2GdSZafdK5L_!!0-item_pic.jpg'></img>
+                </div>
+                <div className='iteminfo'>
+                    <div className='title'>《请回答1988》韩剧主题曲演唱会</div>
+                    <div className='venue'>保利上海城市剧院</div>
+                    <div className='showtime'>2024.05.17 周五 19:30</div>
+                    <div className='price'>￥72<span>起</span></div>
+                </div>
+            </Link>
+            <Link className='box-right_item'>
+                <div className='itemimg'>
+                    <img src='https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01jD3Kjh2GdSZafdK5L_!!0-item_pic.jpg'></img>
+                </div>
+                <div className='iteminfo'>
+                    <div className='title'>《请回答1988》韩剧主题曲演唱会</div>
+                    <div className='venue'>保利上海城市剧院</div>
+                    <div className='showtime'>2024.05.17 周五 19:30</div>
+                    <div className='price'>￥72<span>起</span></div>
+                </div>
+            </Link>
+        </div>
+    </div>
+</div> */}

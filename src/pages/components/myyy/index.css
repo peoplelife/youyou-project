@@ -1,0 +1,6 @@
+:where(.css-dev-only-do-not-override-djtmh8).menu-order .ant-menu-submenu-selected > .ant-menu-submenu-title {
+  color: #FF1268;
+}
+:where(.css-dev-only-do-not-override-djtmh8).menu-order .ant-menu-item-selected {
+  color: #FF1268;
+}

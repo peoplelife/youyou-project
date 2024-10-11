@@ -1,0 +1,26 @@
+.ant-dropdown-menu-item-group-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.ant-dropdown-menu-item-group {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+a:where(.css-dev-only-do-not-override-djtmh8).ant-typography, :where(.css-dev-only-do-not-override-djtmh8).ant-typography a{
+    color: #2D2D2D;
+    font-size: 16px;
+}
+a:where(.css-dev-only-do-not-override-djtmh8).ant-typography{
+    margin-top: -49px;
+    margin-left: 12px;
+    display: block;
+}
+a:where(.css-dev-only-do-not-override-djtmh8).ant-typography:hover{
+    color: #FF1268;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-dropdown .ant-dropdown-menu .ant-dropdown-menu-item-selected{
+    color: #FF1268;
+}

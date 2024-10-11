@@ -1,0 +1,118 @@
+.dm-header-wrap {
+  width: 100%;
+  height: 72px;
+  box-shadow: 0 2px 16px 0 rgba(220, 220, 220, 0.5);
+}
+.dm-header-box {
+  width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+  position: relative;
+  font-size: 0;
+}
+a {
+  text-decoration: none;
+}
+.dm-header-box .i-logo {
+  width: 170px;
+  height: auto;
+  margin-top: 6px;
+  float: left;
+}
+.dm-header-box .location-header {
+  display: block;
+  height: 100%;
+  float: left;
+  position: relative;
+  margin-left: 54px;
+  line-height: 72px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.dm-header-box .location-header .i-icon-location {
+  width: 12px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.dm-header-box .location-header .city-location {
+  max-width: 60px;
+  font-size: 16px;
+  color: #2D2D2D;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 5px;
+  margin-right: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.dm-header-box .recommend-header {
+  max-width: 220px;
+  height: 100%;
+  float: left;
+  margin-right: -20px;
+  margin-left: 40px;
+  line-height: 72px;
+  overflow: hidden;
+}
+.dm-header-box .recommend-header .menu {
+  border-bottom: 0;
+  padding-top: 12px;
+  font-size: 17px;
+}
+.dm-header-box .right-header {
+  min-width: 55px;
+  height: 100%;
+  position: relative;
+  float: right;
+  line-height: 72px;
+}
+.dm-header-box .right-header .box-header {
+  height: 100%;
+  display: inline-block;
+  line-height: 72px;
+  cursor: pointer;
+  position: relative;
+  margin-left: 20px;
+}
+.dm-header-box .search-header {
+  width: 401px;
+  height: 46px;
+  margin-top: 15px;
+  margin-right: 20px;
+  line-height: 46px;
+  float: right;
+  position: relative;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-menu-light.ant-menu-horizontal > .ant-menu-item-selected::after {
+  border-bottom-color: #FF1268;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-menu-light.ant-menu-horizontal > .ant-menu-item-selected {
+  color: #FF1268;
+}
+/* :where(.css-dev-only-do-not-override-djtmh8).ant-menu-light.ant-menu-horizontal >.ant-menu-item-selected:hover{
+    color: #FF1268;
+} */
+:where(.css-dev-only-do-not-override-djtmh8).ant-menu-light.ant-menu-horizontal > .ant-menu-item:hover::after {
+  border-bottom-color: #FF1268;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-menu-light.ant-menu-horizontal > .ant-menu-item:hover {
+  color: #FF1268;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-menu .ant-menu-title-content:hover {
+  color: #FF1268;
+}
+:where(.css-dev-only-do-not-override-djtmh8).search-button .ant-btn-primary {
+  background-color: #FF1268;
+}
+:where(.css-dev-only-do-not-override-djtmh8).search-button .ant-btn-primary:not(:disabled):not(.ant-btn-disabled):hover {
+  color: #fff;
+  background-color: #FF1268;
+}
+:where(.css-dev-only-do-not-override-djtmh8).search-button .ant-input-outlined {
+  border: 1px solid #f8f8f8;
+  background-color: #f8f8f8;
+}
+:where(.css-dev-only-do-not-override-djtmh8).search-button .ant-input-group > .ant-input-affix-wrapper:not(:last-child) .ant-input {
+  padding-left: 15px;
+}

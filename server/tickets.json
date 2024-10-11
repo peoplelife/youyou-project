@@ -1,0 +1,74 @@
+
+{
+    "city":"上海",
+    "data": [{
+        "id":"1",
+        "title":"演唱会",
+        "lefttricket":[{
+            "title":"Fall Out Boy演唱会2024-fall out boy打倒男孩/翻闹小子",
+            "price": [388,1588],
+            "time":["2024.05.04 周六 19:30"],
+            "place":"浦发银行东方体育中心",
+            "city":"上海站",
+            "img":"https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01z9d5jK2GdSaZpZwA5_!!2251059038.jpg"
+        }],
+       "children":[
+        {
+            "id":"1",
+            "title":"魏如萱2024「Little Nice Day」Live Concert -上海站",
+            "price": [388,980],
+            "time":["2024.04.27 周六 19:30"],
+            "place":"上海静安体育中心-体育馆",
+            "city":"上海站",
+            "img":"https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01VwDfsE2GdSadnhKeL_!!2-item_pic.png"
+        },
+        {
+            "id":"2",
+            "title":"徐怀钰2024倒数3秒巡回演唱会上海站",
+            "price": [480,1580],
+            "time":["2024.04.20 周六 19:30"],
+            "place":"梅赛德斯-奔驰文化中心",
+            "city":"上海站",
+            "img":"https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LAqift2GdSaFp5V6T_!!2251059038.jpg"
+        },
+        {
+            "id":"3",
+            "title":"蔡琴“就是要好新琴”2024上海演唱会",
+            "price": [480,1580],
+            "time":["2024.05.11 周六 19:30"],
+            "place":"徐家汇体育公园.上海体育馆",
+            "city":"上海站",
+            "img":"https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01hU4wo82GdSadDJLAd_!!0-item_pic.jpg"
+        },
+        {
+            "id":"4",
+            "title":"侧田“第一秒”巡回演唱会-上海站",
+            "price": [480,1580],
+            "time":["2024.05.25 周六 19:00"],
+            "place":"浦发银行东方体育中心",
+            "city":"上海站",
+            "img":"https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01AvOMgc2GdSabsS8UG_!!0-item_pic.jpg"
+        },
+        {
+            "id":"5",
+            "title":"MC HotDog热狗“装艺术家”2024 巡回演唱会",
+            "price": [480,680],
+            "time":["2024.05.18 周六 20:00"],
+            "place":"国家会展中心(上海)虹馆EH",
+            "city":"上海站",
+            "img":"https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01OAngHE2GdSaVaekqX_!!0-item_pic.jpg"
+        }
+        ,
+        {
+            "id":"6",
+            "title":"伟大信仰”信乐团成团20周年世界巡回演唱会—上海站",
+            "price": [180,1080],
+            "time":["2024.04.20 周六 19:30"],
+            "place":"上海静安体育中心-体育馆",
+            "city":"上海站",
+            "img":"https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01lakVDU2GdSaHTax0S_!!2251059038.jpg"
+        }
+       ]
+    }
+]
+}

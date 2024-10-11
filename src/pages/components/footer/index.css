@@ -1,0 +1,122 @@
+.footer{
+    background-color: #f8f8f8;
+}
+.w1200{
+    width: 1200px;
+    margin: 0 auto;
+}
+.footer_links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 36px 0;
+    text-align: center;
+    zoom: 1;
+}
+li, ul {
+    list-style: none;
+}
+.footer_links_list {
+    float: left;
+    font-size: 13px;
+    color: #111;
+}
+.footer_links_list a {
+    font-size: 13px;
+    color: #111;
+}
+.footer_links_list a:hover{
+    color: #ff1268;
+}
+.footer_links_grep {
+    float: left;
+    padding: 0 24px;
+}
+.footer_ft {
+    padding-bottom: 58px;
+    overflow: hidden;
+}
+.footer_ft_fl {
+    float: left;
+    margin-right: 100px;
+}
+.footer_ft_logo {
+    width: 167px;
+    height: 60px;
+    zoom: 1;
+    float: left;
+    margin-top: 20px;
+}
+.footer_ft_logo img {
+  border: 0;
+  width: 100%;
+}
+.footer_ft_code_box {
+    float: left;
+    width: 87px;
+    text-align: center;
+    margin-left: 40px;
+}
+.footer_ft_code {
+    display: block;
+    width: 87px;
+    height: 87px;
+    margin-bottom: 8px;
+}
+.footer_ft_code_box span {
+    font-size: 14px;
+    color: #111;
+    text-align: center;
+}
+.footer_ft_fr {
+    float: left;
+}
+.footer_fr_contact{
+    padding-bottom: 10px;
+}
+.footer_fr_contact_btn{
+    width: 98px;
+    height: 27px;
+    display: block;
+    line-height: 27px;
+    text-align: center;
+    background-color: #ff1268;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 20px;
+}
+.footer_ft .footer_ft_fr .footer_ft_words {
+    padding:  0 0 6px 0;
+}
+.footer_ft_words li {
+    float: left;
+    font-size: 13px;
+    color: #111;
+}
+.footer_ft_grep {
+    padding: 0 15px;
+}
+.footer_ft_words a {
+    font-size: 13px;
+    color: #111;
+}
+.footer_ft_img{
+    padding-top: 15px;
+}
+.footer_ft_img2 {
+    width: 122px;
+    height: 30px;
+}
+.footer_ft_img3 {
+    width: 49px;
+    height: 30px;
+}
+.footer_ft_words a:hover{
+    color: #ff1268;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-qrcode{
+    display: block;
+    width: 87px;
+    height: 87px;
+    margin-bottom: 8px;
+}

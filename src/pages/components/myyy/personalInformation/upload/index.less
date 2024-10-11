@@ -1,0 +1,46 @@
+.personalInformation-upload {
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+
+    .personalInformation-upload-title {
+        .personalInformation-upload-title-text {
+            display: block;
+            font-size: 14px;
+            color: #333;
+            margin-top: 24px;
+        }
+    }
+    .bottom20 {
+        color: #B1B3B9;
+        font-size: 12px;
+        margin-top: 8px;
+        padding-left: 18px;
+        background: url(https://www.kugou.com/newuc/static/images/icon_disc.png) no-repeat;
+        background-size: 16px 16px;
+        background-position: 0 1px;
+    }
+    .personalInformation-upload-container{
+        margin:10px 0 150px 0;
+        :where(.css-dev-only-do-not-override-djtmh8).ant-upload-wrapper.ant-upload-picture-circle-wrapper .ant-upload.ant-upload-select:not(.ant-upload-disabled):hover{
+            border-color: #FF1268;
+        }
+        :where(.css-dev-only-do-not-override-djtmh8).ant-upload-wrapper.ant-upload-picture-circle-wrapper .ant-upload.ant-upload-select:not(.ant-upload-disabled):active{
+            border-color: #FF1268;
+        }
+        :where(.css-dev-only-do-not-override-djtmh8).ant-btn-primary:not(:disabled):not(.ant-btn-disabled):hover{
+            background-color: #FF1268;
+        }
+        .ant-btn-primary{
+            background-color: #FF1268;
+        }
+        .ant-upload-wrapper.ant-upload-picture-circle-wrapper .ant-upload.ant-upload-select{
+            width: 160px;
+            height: 160px;
+        }
+        .ant-upload-wrapper.ant-upload-picture-circle-wrapper .ant-upload-list.ant-upload-list-picture-circle .ant-upload-list-item-container{
+            width: 160px;
+            height: 160px;
+        }
+    }
+}

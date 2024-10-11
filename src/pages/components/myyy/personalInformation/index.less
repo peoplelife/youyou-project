@@ -1,0 +1,179 @@
+.personalInformation_box {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+
+    .personalInformation_box_left {
+        width: 240px;
+        // background: rgba(0, 169, 255, 0.1);
+        background-color:#FFECE8;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .personalInformation_avater {
+            .userImage {
+                width: 160px;
+                height: 160px;
+                border-radius: 50%;
+                margin-top: 65px;
+            }
+        }
+
+        .personalInformation_name {
+            display: flex;
+            margin-top: 20px;
+            align-items: center;
+
+            .personalInformation_name_title {
+                font-size: 14px;
+                color: #000;
+                font-weight: 500;
+            }
+        }
+
+        .personalInformation_userName {
+            font-size: 12px;
+            margin-top: 8px;
+        }
+
+        .personalInformation_button {
+            .personalInformation_button_a {
+                width: 152px;
+                height: 28px;
+                background: linear-gradient(315deg, #F0D08D 0%, #FFE5B4 100%);
+                border-radius: 14px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: #6B4726;
+                font-size: 12px;
+                margin-top: 12px;
+            }
+        }
+    }
+
+    .personalInformation_box_right {
+        flex: 1;
+        margin-bottom: 40px;
+        .personalInformation_right_header {
+            .personalInformation_right_header_title {
+                ul.right_header_title_list {
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
+                    padding: 40px 0 15px;
+                    border-bottom: 2px solid rgba(177, 179, 185, 0.16);
+
+                    .right_header_title_list_a {
+                        font-size: 16px;
+                        color: #000;
+                    }
+
+                    .cur {
+                        .right_header_title_list_a {
+                            color: #FF1268;
+                            position: relative;
+                        }
+                    }
+                }
+
+                .right_header_title_list li {
+                    cursor: pointer;
+                    list-style: none;
+                    margin-left: 60px;
+                }
+            }
+
+            .personalInformation_right_header_form {
+                margin: 12px 0 0 60px;
+            }
+
+            .personalInformation_right_header_form  {//form
+                .personalInformation_right_header_form_table {
+                    border-collapse: collapse;
+                    border-style: none;
+                    width: 100%;
+
+                    .personalInformation_tr {
+                        margin-top: 12px;
+                        display: flex;
+                        min-height: 30px;
+                        align-items: baseline;
+
+                        .personalInformation_td1 {
+                            width: 68px;
+                            position: relative;
+
+                            .personalInformation_label {
+                                font-size: 14px;
+                                position: relative;
+                                cursor: pointer;
+                            }
+                        }
+
+                        .personalInformation_td2 {
+                            font-size: 14px;
+                            color: #000;
+                            position: relative;
+                            .ant-radio-wrapper:hover .ant-radio-inner {
+                                border-color: #FF1268;
+                            }
+                            .ant-radio-wrapper .ant-radio-checked .ant-radio-inner {
+                                background-color:#FF1268 ;
+                            }
+                            .ant-radio-wrapper .ant-radio-checked::after{
+                                border-color: #FF1268;
+                            }
+                            .ant-picker-outlined:hover{
+                                border-color: #FF1268
+                            }
+                            .ant-picker-outlined:focus{
+                                border-color: #FF1268
+                            }
+                            .ant-select-outlined:not(.ant-select-disabled):not(.ant-select-customize-input):not(.ant-pagination-size-changer):hover .ant-select-selector {
+                                border-color: #FF1268
+                            }
+                            .ant-select-focused:where(.css-dev-only-do-not-override-djtmh8).ant-select-outlined:not(.ant-select-disabled):not(.ant-select-customize-input):not(.ant-pagination-size-changer) .ant-select-selector{
+                                border-color: #FF1268
+                            }
+                            .ant-btn-primary{
+                                background-color:#FF1268 ;
+                            }
+                            .ant-radio-wrapper .ant-radio-checked .ant-radio-inner{
+                                border-color: #FF1268
+                            }
+                            .arco-input:hover{
+                                background-color: #ffff;
+                            }
+                            .arco-input{
+                                background-color: transparent;
+                                border: 1px solid rgba(177, 179, 185, 0.6);
+                            }
+                            .ant-form-item .ant-form-item-control-input{
+                                border-bottom: none;
+                            }
+                            .personalInformation_acro_textarea{
+                                border: 1px solid rgba(177, 179, 185, 0.6);
+                                background-color: transparent;
+                            }
+                            .personalInformation_acro_textarea_general{
+                                border: 1px solid rgba(177, 179, 185, 0.6);
+                                background-color: transparent;
+                                min-height: 100px;
+                            }
+                            .personalInformation_td2_name{
+                                width: 182px;
+                                height: 30px;
+                                border-radius: 4px;
+                                border: 1px solid rgba(177, 179, 185, 0.6);
+                                padding: 0 8px;
+                                box-sizing: border-box;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

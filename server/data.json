@@ -1,0 +1,569 @@
+{
+    "modules":[
+        {
+            "id":"1",
+            "title":"演唱会",
+            "lefttricket":[ {
+                "title": "【北京】2024雁栖湖音乐节",
+                "time": ["2024.04.20-04.21","2024.04.20 周六","2024.04.21 周日"],
+                "city": "北京站",
+                "place": "北京市 | 北京雁栖湖国际会展中心",
+                "price": [328,428],
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01tJdh2c2GdSaK43BIs_!!2251059038.jpg"
+            }]
+
+        },
+        {
+            "id":"2",
+            "title": "话剧歌剧",
+            "lefttricket":[ {
+                "title": "【北京】开心麻花王牌爆笑大戏《贼想得到你》",
+                "time": ["2024.05.14-05.26"],
+                "city": "北京站",
+                "place": "北京市 | 海淀剧院",
+                "price": [80,180],
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01z1C7fB2GdSZeVxXLS_!!2251059038.png"
+            }]
+        },
+        {
+            "id":"3",
+            "title":"体育比赛",
+            "lefttricket":[{
+                "title": "【北京】2024北京国际马术“创意之春”;天星调良国际马术障碍赛CSI1*",
+                "time": ["2024.04.11-04.14","2021.04.11 周四","2021.04.12 周五","2021.04.13 周六","2021.04.14 周日"],
+                "city": "北京站",
+                "place": "北京市 | 北京天星调良国际马术俱乐部",
+                "price": [128,228],
+                "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01csS8gD2GdSaQzEoLf_!!0-item_pic.jpg"
+            }]
+        },
+        {
+            "id":"4",
+            "title":"儿童亲子",
+            "lefttricket":[{
+                "title": "【北京】亲子皮影戏体验",
+                "time": ["2024.04.10-04.30"],
+                "city": "北京站",
+                "place": "北京市 | 北京老舍茶馆-二层体验中心",
+                "price": [80,128],
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01mOnEYt2GdSa2qJeuK_!!2-item_pic.png"
+            }]
+        }
+    ],
+    "details": [
+        {
+            "id": "1",
+            "title": "演唱会",
+            "lefttricket": {
+                "title": "【北京】2024雁栖湖音乐节",
+                "time": "2024.04.20-04.21",
+                "city": "北京站",
+                "place": "北京市 | 北京雁栖湖国际会展中心",
+                "price": 328,
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01tJdh2c2GdSaK43BIs_!!2251059038.jpg"
+            },
+            "children": [
+                {
+                    "id":"1",
+                    "title": "【北京】乐事大波浪·2024北京超级草莓音乐节",
+                    "time": "2024.05.02-05.04",
+                    "city": "北京站",
+                    "place": "北京市 | 北京世园公园飞行营地",
+                    "price": 398,
+                    "img": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN011TWq6C2GdSaVjjbkP_!!0-item_pic.jpg"
+                },
+                {
+                    "id":"2",
+                    "title": "【北京】2024焦迈奇“游泳回家”巡回演唱会-北京站",
+                    "time": "2024.06.01 周六 19:30",
+                    "city": "北京站",
+                    "place": "北京市 | 首都体育馆",
+                    "price": 480,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01gW4WEB2GdSZv7v6Sw_!!2251059038.png"
+                },
+                {
+                    "id":"3",
+                    "title": "【北京】于文文「魔方视界」演唱会-北京站",
+                    "time": "2024.04.27 周六 19:30",
+                    "city": "北京站",
+                    "place": "北京市 | 华熙LIVE·五棵松",
+                    "price": 380,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01Xpp8pR2GdSZl2bf4Y_!!2251059038.jpg"
+                },
+                {
+                    "id":"4",
+                    "title": "【北京】迪士尼奇妙庆典音乐会Disney in Concert A Magical Celebration",
+                    "time": "2024.04.26-04.27",
+                    "city": "北京站",
+                    "place": "北京市 | 北京展览馆剧场",
+                    "price": 280,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01R1vN412GdSaJg20Yr_!!2251059038.jpg"
+                },
+                {
+                    "id":"5",
+                    "title": "【北京】2024 ICE杨长青“LIFE”巡演-北京站",
+                    "time": "2024.04.26 周五 20:00",
+                    "city": "北京站",
+                    "place": "北京市 | 本土王牌LIVE",
+                    "price": 288,
+                    "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01AYUswJ2GdSaF6E8EE_!!0-item_pic.jpg"
+                },
+                {
+                    "id":"6",
+                    "title": "【北京】Walk Off The Earth 逃离地球2024北京站",
+                    "time": "2024.04.14 周日 19:30",
+                    "city": "北京站",
+                    "place": "北京市 | 奥体中心体育馆",
+                    "price": 380,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01cpFdvt2GdSZqiRWFE_!!2251059038.jpg"
+                }
+            ]
+        },
+        {
+            "id":"2",
+            "title": "话剧歌剧",
+            "lefttricket": {
+                "title": "【北京】开心麻花王牌爆笑大戏《贼想得到你》",
+                "time": "2024.05.14-05.26",
+                "city": "北京站",
+                "place": "北京市 | 海淀剧院",
+                "price": 80,
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01z1C7fB2GdSZeVxXLS_!!2251059038.png"
+            },
+            "children":[
+                {
+                    "id":"7",
+                    "title": "【北京】染空间出品中文原创音乐剧《人间失格》",
+                    "time": "2024.05.23-05.26",
+                    "city": "北京站",
+                    "place": "北京市 | 天桥艺术中心-大剧场",
+                    "price": 280,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01eTCZiI2GdSZyzphT9_!!2251059038.jpg"
+                },
+                {
+                    "id":"8",
+                    "title": "【北京】法语原版音乐剧《摇滚莫扎特》",
+                    "time": "2024.05.01-05.19",
+                    "city": "北京站",
+                    "place": "北京市 | 天桥艺术中心-大剧场",
+                    "price": 180,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01sRn7Ss2GdSa6aGVSJ_!!2251059038.jpg"
+                },
+                {
+                    "id":"9",
+                    "title": "【北京】金星首部自导自演舞台剧《日出》",
+                    "time": "2024.05.16-05.18",
+                    "city": "北京站",
+                    "place": "北京市 | 保利剧院",
+                    "price": 180,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01pCinwJ2GdSZVfY5pl_!!2251059038.jpg"
+                },
+                {
+                    "id":"10",
+                    "title": "【北京】全景沉浸互动《大真探赵赶鹅2》",
+                    "time": "2024.04.11-04.27",
+                    "city": "北京站",
+                    "place": "北京市 | 77文创园剧场-77剧场",
+                    "price": 288,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01tONTuQ2GdSa5kmVvy_!!2251059038.jpg"
+                },
+                {
+                    "id":"11",
+                    "title": "【北京】【沉浸式体验戏剧】同学会《青春学院》勇闯爆梗岛|互动换装回忆杀|全环境式演出",
+                    "time": "2024.04.10-05.05",
+                    "city": "北京站",
+                    "place": "北京市 | 北京喜剧笑逗空间",
+                    "price": 180,
+                    "img": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN012GdSa4ncUq7pLc2_!!0-item_pic.jpg"
+                },
+                {
+                    "id":"12",
+                    "title": "【北京】伦敦西区原版话剧《无人生还》",
+                    "time": "2024.06.26-06.30",
+                    "city": "北京站",
+                    "place": "北京市 | 天桥艺术中心-大剧场",
+                    "price": 180,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01kaAVcH2GdSZnhLna7_!!2251059038.jpg"
+                }
+            ]
+        },
+        {
+            "id":"3",
+            "title":"体育比赛",
+            "lefttricket":{
+                "title": "【北京】2024北京国际马术“创意之春”&amp;天星调良国际马术障碍赛CSI1*",
+                "time": "2024.04.11-04.14",
+                "city": "北京站",
+                "place": "北京市 | 北京天星调良国际马术俱乐部",
+                "price": 128,
+                "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01csS8gD2GdSaQzEoLf_!!0-item_pic.jpg"
+            },
+            "children":[
+                {
+                    "id":"13",
+                    "title": "【北京】2024 The Color Run™北京站",
+                    "time": "2024.04.20 周六",
+                    "city": "北京站",
+                    "place": "北京市 | 北京园博园",
+                    "price": 238,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01FhkvnS2GdSYl8WKcD_!!2251059038.jpg"
+                },
+                {
+                    "id":"14",
+                    "title": "【北京】小小骑士初长成《马背骑乘45分钟》",
+                    "time": "2024.02.29-12.31",
+                    "city": "北京站",
+                    "place": "北京市 | 蓝调马术庄园",
+                    "price": 338,
+                    "img": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01zA09Oz2GdSZS8l4rs_!!0-item_pic.jpg"
+                },
+                {
+                    "id":"15",
+                    "title": "【北京】马术体验活动课",
+                    "time": "2024.03.05-12.31",
+                    "city": "北京站",
+                    "place": "北京市 | Family Farm 马术庄园",
+                    "price": 9.9,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01gya7OR2GdSNj9ZN4W_!!2251059038.jpg"
+                },
+                {
+                    "id":"16",
+                    "title": "【天津】2024中国足球协会超级联赛天津津门虎队主场门票",
+                    "time": "2024.04.14 周日 19:00",
+                    "city": "天津站",
+                    "place": "天津市 | 天津泰达足球场",
+                    "price": 80,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01qyPPg92GdSZK1AqhN_!!2251059038.png"
+                },
+                {
+                    "id":"17",
+                    "title": "【天津】2024中超联赛天津津门虎主场赛事（年票）",
+                    "time": "2024.03.01-12.31",
+                    "city": "天津站",
+                    "place": "天津市 | 天津泰达足球场",
+                    "price": 680,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01MV6J3g2GdSZ4qiOyn_!!2251059038.png"
+                },
+                {
+                    "id":"18",
+                    "title": "【沧州】2024中国足球协会超级联赛沧州雄狮队主场比赛",
+                    "time": "2024.04.10 周三 19:35",
+                    "city": "沧州站",
+                    "place": "沧州市 | 沧州体育场",
+                    "price": 100,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01Gv9qrn2GdSaSH7kM2_!!2251059038.jpg"
+                }
+            ]
+        },
+        {
+            "id":"4",
+            "title":"儿童亲子",
+            "lefttricket":{
+                "title": "【北京】亲子皮影戏体验",
+                "time": "2024.04.10-04.30",
+                "city": "北京站",
+                "place": "北京市 | 北京老舍茶馆-二层体验中心",
+                "price": 80,
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01mOnEYt2GdSa2qJeuK_!!2-item_pic.png"
+            },
+            "children":[
+                {
+                    "id":"19",
+                    "title": "【北京】百老汇互动亲子科学剧《飞行秀》中文版",
+                    "time": "2024.06.15 周六",
+                    "city": "北京站",
+                    "place": "北京市 | 天桥剧场",
+                    "price": 108,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01HSVhjx2GdSaGa9lk9_!!2251059038.jpg"
+                },
+                {
+                    "id":"20",
+                    "title": "【北京】百老汇互动亲子科学剧《飞行秀》中文版",
+                    "time": "2024.06.15 周六",
+                    "city": "北京站",
+                    "place": "北京市 | 天桥剧场",
+                    "price": 108,
+                    "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01fhctVJ2GdSZhMkpLk_!!0-item_pic.jpg"
+                },
+                {
+                    "id":"21",
+                    "title": "【北京】【限量特惠】【雍和宫|首部魔术儿童剧】科学实验室|欢乐亲子宝贝-高分必看|寒假大戏｜沉浸魔法演出",
+                    "time": "2024.04.10-04.30",
+                    "city": "北京站",
+                    "place": "北京市 | 北京喜剧笑逗空间",
+                    "price": 100,
+                    "img": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01YO4ZWq2GdSaSjRfAI_!!2-item_pic.png"
+                },
+                {
+                    "id":"22",
+                    "title": "【北京】东映动漫大型舞台剧《屁屁侦探之怪盗U对怪盗U》",
+                    "time": "2024.04.26-04.27",
+                    "city": "北京站",
+                    "place": "北京市 | 未来剧院",
+                    "price": 180,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01YV3ddS2GdSZqFSTbK_!!2251059038.png"
+                },
+                {
+                    "id":"23",
+                    "title": "【北京】大型全景多媒体舞台剧《冰雪女王Ⅰ艾莎之星梦奇缘》",
+                    "time": "2024.05.03 周五",
+                    "city": "北京站",
+                    "place": "北京市 | 北京展览馆剧场",
+                    "price": 48,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01RJmPzl2GdSZJPQ46k_!!2251059038.jpg"
+                },
+                {
+                    "id":"24",
+                    "title": "【北京】【限时优惠】经典童话再现《再见安徒生》|全新原创亲子儿童互动剧|沉浸式穿越时空|磁场喜剧×南锣鼓巷",
+                    "time": "2024.04.13-05.05",
+                    "city": "北京站",
+                    "place": "北京市 | 磁场剧场NH剧场",
+                    "price": 120,
+                    "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN013rAXDe2GdSZTNcxlq_!!2251059038.png"
+                }
+            ]
+        }
+    ],
+    "children":[
+        {
+            "id":"1",
+            "moduleId":"1",
+            "title": "【北京】乐事大波浪·2024北京超级草莓音乐节",
+            "time": ["2024.05.02-05.04","2024.05.02 周四","2024.05.03 周五","2024.05.04 周六"],
+            "city": "北京站",
+            "place": "北京市 | 北京世园公园飞行营地",
+            "price": [398,498],
+            "img": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN011TWq6C2GdSaVjjbkP_!!0-item_pic.jpg"
+        },
+        {
+            "id":"2",
+            "moduleId":"1",
+            "title": "【北京】2024焦迈奇“游泳回家”巡回演唱会-北京站",
+            "time": ["2024.06.01 周六 19:30"],
+            "city": "北京站",
+            "place": "北京市 | 首都体育馆",
+            "price": [480,580],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01gW4WEB2GdSZv7v6Sw_!!2251059038.png"
+        },
+        {
+            "id":"3",
+            "moduleId":"1",
+            "title": "【北京】于文文「魔方视界」演唱会-北京站",
+            "time": ["2024.04.27 周六 19:30"],
+            "city": "北京站",
+            "place": "北京市 | 华熙LIVE·五棵松",
+            "price": [380,480],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01Xpp8pR2GdSZl2bf4Y_!!2251059038.jpg"
+        },
+        {
+            "id":"4",
+            "moduleId":"1",
+            "title": "【北京】迪士尼奇妙庆典音乐会Disney in Concert A Magical Celebration",
+            "time": ["2024.04.26-04.27","2024.04.26 周五", "2024.04.27 周六"],
+            "city": "北京站",
+            "place": "北京市 | 北京展览馆剧场",
+            "price": [280,380],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01R1vN412GdSaJg20Yr_!!2251059038.jpg"
+        },
+        {
+            "id":"5",
+            "moduleId":"1",
+            "title": "【北京】2024 ICE杨长青“LIFE”巡演-北京站",
+            "time": ["2024.04.26 周五 20:00"],
+            "city": "北京站",
+            "place": "北京市 | 本土王牌LIVE",
+            "price": [288,388],
+            "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01AYUswJ2GdSaF6E8EE_!!0-item_pic.jpg"
+        },
+        {
+            "id":"6",
+            "moduleId":"1",
+            "title": "【北京】Walk Off The Earth 逃离地球2024北京站",
+            "time": ["2024.04.14 周日 19:30"],
+            "city": "北京站",
+            "place": "北京市 | 奥体中心体育馆",
+            "price": [380,455],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01cpFdvt2GdSZqiRWFE_!!2251059038.jpg"
+        },
+        {
+            "id":"7",
+            "moduleId":"2",
+            "title": "【北京】染空间出品中文原创音乐剧《人间失格》",
+            "time": ["2024.05.23-05.26","2024.05.23 周四", "2024.05.24 周五", "2024.05.25 周六", "2024.05.26 周日"],
+            "city": "北京站",
+            "place": "北京市 | 天桥艺术中心-大剧场",
+            "price": [280,320],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01eTCZiI2GdSZyzphT9_!!2251059038.jpg"
+        },
+        {
+            "id":"8",
+            "moduleId":"2",
+            "title": "【北京】法语原版音乐剧《摇滚莫扎特》",
+            "time": ["2024.05.01-05.19"],
+            "city": "北京站",
+            "place": "北京市 | 天桥艺术中心-大剧场",
+            "price": [180,250],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01sRn7Ss2GdSa6aGVSJ_!!2251059038.jpg"
+        },
+        {
+            "id":"9",
+            "moduleId":"2",
+            "title": "【北京】金星首部自导自演舞台剧《日出》",
+            "time": ["2024.05.16-05.18","2024.05.16 周四", "2024.05.17 周五", "2024.05.18 周六"],
+            "city": "北京站",
+            "place": "北京市 | 保利剧院",
+            "price": [180,450],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01pCinwJ2GdSZVfY5pl_!!2251059038.jpg"
+        },
+        {
+            "id":"10",
+            "moduleId":"2",
+            "title": "【北京】全景沉浸互动《大真探赵赶鹅2》",
+            "time": ["2024.04.11-04.27"],
+            "city": "北京站",
+            "place": "北京市 | 77文创园剧场-77剧场",
+            "price": [288,254],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01tONTuQ2GdSa5kmVvy_!!2251059038.jpg"
+        },
+        {
+            "id":"11",
+            "moduleId":"2",
+            "title": "【北京】【沉浸式体验戏剧】同学会《青春学院》勇闯爆梗岛|互动换装回忆杀|全环境式演出",
+            "time": ["2024.04.10-05.05"],
+            "city": "北京站",
+            "place": "北京市 | 北京喜剧笑逗空间",
+            "price": [180,567],
+            "img": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN012GdSa4ncUq7pLc2_!!0-item_pic.jpg"
+        },
+        {
+            "id":"12",
+            "moduleId":"2",
+            "title": "【北京】伦敦西区原版话剧《无人生还》",
+            "time": ["2024.06.26-06.30"],
+            "city": "北京站",
+            "place": "北京市 | 天桥艺术中心-大剧场",
+            "price": [180,230],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01kaAVcH2GdSZnhLna7_!!2251059038.jpg"
+        },
+        {
+            "id":"13",
+            "moduleId":"3",
+            "title": "【北京】2024 The Color Run™北京站",
+            "time": ["2024.04.20 周六"],
+            "city": "北京站",
+            "place": "北京市 | 北京园博园",
+            "price": [238,420],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01FhkvnS2GdSYl8WKcD_!!2251059038.jpg"
+        },
+        {
+            "id":"14",
+            "moduleId":"3",
+            "title": "【北京】小小骑士初长成《马背骑乘45分钟》",
+            "time": ["2024.02.29-12.31"],
+            "city": "北京站",
+            "place": "北京市 | 蓝调马术庄园",
+            "price": [338,463],
+            "img": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01zA09Oz2GdSZS8l4rs_!!0-item_pic.jpg"
+        },
+        {
+            "id":"15",
+            "moduleId":"3",
+            "title": "【北京】马术体验活动课",
+            "time": ["2024.03.05-12.31"],
+            "city": "北京站",
+            "place": "北京市 | Family Farm 马术庄园",
+            "price": [9.9,20],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01gya7OR2GdSNj9ZN4W_!!2251059038.jpg"
+        },
+        {
+            "id":"16",
+            "moduleId":"3",
+            "title": "【天津】2024中国足球协会超级联赛天津津门虎队主场门票",
+            "time": ["2024.04.14 周日 19:00"],
+            "city": "天津站",
+            "place": "天津市 | 天津泰达足球场",
+            "price": [80,100],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01qyPPg92GdSZK1AqhN_!!2251059038.png"
+        },
+        {
+            "id":"17",
+            "moduleId":"3",
+            "title": "【天津】2024中超联赛天津津门虎主场赛事（年票）",
+            "time": ["2024.03.01-12.31"],
+            "city": "天津站",
+            "place": "天津市 | 天津泰达足球场",
+            "price": [680,1000],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01MV6J3g2GdSZ4qiOyn_!!2251059038.png"
+        },
+        {
+            "id":"18",
+            "moduleId":"3",
+            "title": "【沧州】2024中国足球协会超级联赛沧州雄狮队主场比赛",
+            "time": ["2024.04.10 周三 19:35"],
+            "city": "沧州站",
+            "place": "沧州市 | 沧州体育场",
+            "price": [100,200],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01Gv9qrn2GdSaSH7kM2_!!2251059038.jpg"
+        },
+        {
+            "id":"19",
+            "moduleId":"4",
+            "title": "【北京】百老汇互动亲子科学剧《飞行秀》中文版",
+            "time": ["2024.06.15 周六"],
+            "city": "北京站",
+            "place": "北京市 | 天桥剧场",
+            "price": [108,111],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01HSVhjx2GdSaGa9lk9_!!2251059038.jpg"
+        },
+        {
+            "id":"20",
+            "moduleId":"4",
+            "title": "【北京】百老汇互动亲子科学剧《飞行秀》中文版",
+            "time":[ "2024.06.15 周六"],
+            "city": "北京站",
+            "place": "北京市 | 天桥剧场",
+            "price": [108,210],
+            "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01fhctVJ2GdSZhMkpLk_!!0-item_pic.jpg"
+        },
+        {
+            "id":"21",
+            "moduleId":"4",
+            "title": "【北京】【限量特惠】【雍和宫|首部魔术儿童剧】科学实验室|欢乐亲子宝贝-高分必看|寒假大戏｜沉浸魔法演出",
+            "time": ["2024.04.10-04.30"],
+            "city": "北京站",
+            "place": "北京市 | 北京喜剧笑逗空间",
+            "price": [100,300],
+            "img": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01YO4ZWq2GdSaSjRfAI_!!2-item_pic.png"
+        },
+        {
+            "id":"22",
+            "moduleId":"4",
+            "title": "【北京】东映动漫大型舞台剧《屁屁侦探之怪盗U对怪盗U》",
+            "time": ["2024.04.26-04.27","2024.04.26 周五", "2024.04.27 周六"],
+            "city": "北京站",
+            "place": "北京市 | 未来剧院",
+            "price": [180,360],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01YV3ddS2GdSZqFSTbK_!!2251059038.png"
+        },
+        {
+            "id":"23",
+            "moduleId":"4",
+            "title": "【北京】大型全景多媒体舞台剧《冰雪女王Ⅰ艾莎之星梦奇缘》",
+            "time": ["2024.05.03 周五"],
+            "city": "北京站",
+            "place": "北京市 | 北京展览馆剧场",
+            "price": [48,60],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN01RJmPzl2GdSZJPQ46k_!!2251059038.jpg"
+        },
+        {
+            "id":"24",
+            "moduleId":"4",
+            "title": "【北京】【限时优惠】经典童话再现《再见安徒生》|全新原创亲子儿童互动剧|沉浸式穿越时空|磁场喜剧×南锣鼓巷",
+            "time": ["2024.04.13-05.05"],
+            "city": "北京站",
+            "place": "北京市 | 磁场剧场NH剧场",
+            "price": [120,230],
+            "img": "https://img.alicdn.com/bao/uploaded/https://img.al…51059038/O1CN013rAXDe2GdSZTNcxlq_!!2251059038.png"
+        }
+    ]
+}

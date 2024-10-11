@@ -1,0 +1,69 @@
+.ticketPurchaser-box {
+  display: flex;
+  flex-direction: column;
+}
+.ticketPurchaser-box .ticketPurchaser-null {
+  border: 1px solid #efefef;
+}
+.ticketPurchaser-box .ticketPurchaser-null .ticketPurchaser-null-box {
+  height: 398px;
+  text-align: center;
+}
+.ticketPurchaser-box .ticketPurchaser-null .ticketPurchaser-null-box .ticketPurchaser-null-img {
+  margin-top: 100px;
+  margin-bottom: 18px;
+}
+.ticketPurchaser-box .ticketPurchaser-button {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 5px;
+}
+.ticketPurchaser-box .ticketPurchaser-button :where(.css-dev-only-do-not-override-djtmh8).ant-btn-default {
+  background-color: #f81c5a;
+  color: #fff;
+}
+.ticketPurchaser-box .ticketPurchaser-button :where(.css-dev-only-do-not-override-djtmh8).ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover {
+  color: #fff;
+  border-color: #f81c5a;
+  background-color: #f81c5a;
+}
+.ticketPurchaser-box .ticketPurchaser-info-box {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #efefef;
+}
+.ticketPurchaser-box .ticketPurchaser-info-box .ticketPurchaser-title {
+  border-bottom: 2px solid #cfcdcd;
+  height: 36px;
+}
+.ticketPurchaser-box .ticketPurchaser-info-box .ticketPurchaser-title .ticketPurchaser-title-info {
+  width: 136px;
+  line-height: 36px;
+  border-bottom: 2px solid #f81c5a;
+  padding-left: 15px;
+  font-size: 16px;
+  color: #333333;
+}
+.ticketPurchaser-box .ticketPurchaser-info-box .ticketPurchaser-form {
+  padding: 30px 30px 22px;
+}
+.ticketPurchaser-box .ticketPurchaser-info-box .ticketPurchaser-form .ticketPurchaser-form-box {
+  width: 300px;
+}
+.ticketPurchaser-box .ticketPurchaser-info-box .ticketPurchaser-form .ticketPurchaser-form-box .ticketPurchaser-form-box-input {
+  margin-bottom: 20px;
+}
+.ticketPurchaser-box .ticketPurchaser-info-box .ticketPurchaser-form .ticketPurchaser-form-box .ticketPurchaser-form-box-input .arco-input {
+  background-color: #fff;
+  border: 1px solid #cfcdcd;
+}
+.ticketPurchaser-box .ticketPurchaser-info-box .ticketPurchaser-form .ticketPurchaser-form-box .ticketPurchaser-form-box-button {
+  display: flex;
+  justify-content: center;
+}
+.ticketPurchaser-box .ticketPurchaser-info-box .ticketPurchaser-form .ticketPurchaser-form-box .ticketPurchaser-form-box-button :where(.css-dev-only-do-not-override-djtmh8).ant-btn-primary {
+  background-color: #f81c5a;
+  width: 92px;
+  height: 28px;
+  line-height: 1px;
+}
